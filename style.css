@@ -1,0 +1,157 @@
+
+.newclass{
+    font-family: "Monsieur La Doulaise", cursive;
+    color: orange;
+    font-weight: 400;
+    font-size: 80px;
+}
+.h1{
+    font-weight: 200;
+    font-size: 50px;
+    font-family: "Outfit", sans-serif;
+}
+.div1{
+    font-family: "Outfit", sans-serif;
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 3%;
+    margin-top: 4%;
+    font-weight: 150;
+}
+.div1 img{
+    width: 70%;
+    float: right;
+    margin-right: 20%;
+    
+   
+}
+.h4{
+    font-weight: 300;
+}
+.banner{
+    background-image: url("images/bg1.png");
+    background-repeat: no-repeat;
+    
+}
+section{
+    height: 750px;
+    padding-bottom: 20px;
+}
+body{
+    margin: 0%;
+}
+.div1 p{
+    font-size: 20px;
+}
+.hirebutton{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, rgb(230, 125, 39), tomato);
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 500;
+
+}
+
+
+
+
+.div2{
+    padding-right: 2%;
+    float:right ;
+    width: 40%;
+    margin-right: 8%;
+    font-family: "Outfit", sans-serif;
+    font-weight: 200;
+    
+}
+.high2{
+    color: rgb(153, 41, 234);
+    font-weight: 300;
+}
+.h2{
+    margin-top: 20%;
+    font-size: 50px;
+    font-weight: 500;
+}
+.sec2h3{
+    font-weight: 300;
+}
+
+.div2 img{
+    float: left;
+    width: 70%;
+    margin-left: 15%;
+}
+.bttn2{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, rgb(185, 61, 70), rgb(145,73,142));
+    padding: 10px 30px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 500;
+}
+.sec2{
+    background-image: url(images/my-bg2.png);
+    background-position: right;
+    background-repeat: no-repeat;
+    
+}
+.pro{
+    font-family: "Outfit", sans-serif;
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+}
+.noob{
+    font-family: "Outfit", sans-serif;
+    float: right;
+    width: 40%;
+    margin-right: 5%;
+}
+.prohigh{
+    color: orange;
+    font-weight: 300;
+}
+.noobhigh{
+    color: orange;
+    font-weight: 300;
+}
+.box-shadow{
+    box-shadow: 10px 10px 40px gray;
+    height: 40%;
+    padding: 30px;
+    border-radius: 10px;
+    
+}
+.h3{
+    font-weight: 400 ;
+    stroke: 5px black;
+    text-shadow: 10px 5px 7px gray;
+}
+.photo{
+    color : lightcoral;
+}
+.exp-up{
+    margin-left: 5%;
+    font-family: serif;
+}
+.exp{
+    background-image: url(images1/BG4.png);
+    background-repeat: no-repeat;
+    background-position: 0px -30px;
+    background-size: 25%;
+}
+#pro-id{
+    border-left: 10px solid  ;
+    border-image: linear-gradient(180deg, rgb(185, 61, 70), rgb(145,73,142));;
+    border-image-slice: 1;
+    border-radius: 10px;
+}
+#noob-id{
+    border-left: 10px solid  ;
+    border-image: linear-gradient(180deg, rgb(51, 13, 105), rgb(48,201,205));;
+    border-image-slice: 1;
+    border-radius: 10px;
+}
