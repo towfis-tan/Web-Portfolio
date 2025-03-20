@@ -30,7 +30,7 @@
     font-weight: 300;
 }
 .banner{
-    background-image: url("images/bg1.png");
+    background-image: url("images/top-banner.png");
     background-repeat: no-repeat;
     
 }
@@ -93,7 +93,8 @@ body{
     font-weight: 500;
 }
 .sec2{
-    background-image: url(images/my-bg2.png);
+    background-image: url(images/image\ 10.png);
+    background-size: 50%;
     background-position: right;
     background-repeat: no-repeat;
     
@@ -138,15 +139,15 @@ body{
     font-family: serif;
 }
 .exp{
-    background-image: url(images1/BG4.png);
+    background-image: url(images/image\ 3.png);
     background-repeat: no-repeat;
-    background-position: 0px -30px;
-    background-size: 25%;
+    background-position: -115px 50px;
+    background-size: 15%;
 }
 #pro-id{
     border-left: 10px solid  ;
     border-image: linear-gradient(180deg, rgb(185, 61, 70), rgb(145,73,142));;
-    border-image-slice: 1;
+    border-image-slice: 3;
     border-radius: 10px;
 }
 #noob-id{
